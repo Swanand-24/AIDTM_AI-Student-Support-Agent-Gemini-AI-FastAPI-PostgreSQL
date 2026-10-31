@@ -1,4 +1,4 @@
-# Mitali – AI Student Support Agent
+# Agentic AI Assignment – AI Student Support Agent
 
 An AI-powered university information and student support chatbot built using **Python, FastAPI, PostgreSQL, and the Google Gemini API**.
 
