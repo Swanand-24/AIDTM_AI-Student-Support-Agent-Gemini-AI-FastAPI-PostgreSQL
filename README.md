@@ -294,14 +294,14 @@ Use the following template and replace the example values with your own local co
 ```dotenv
 # PostgreSQL database configuration
 DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=student_support
+DB_PORT=
+DB_NAME=
 DB_USER=postgres
 DB_PASSWORD=YOUR_LOCAL_POSTGRES_PASSWORD
 
 # Google Gemini API configuration
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-GEMINI_MODEL=models.gemini-3.5-flash-lite
+GEMINI_MODEL=
 ```
 
 The model identifier above reflects the configuration used in this project. Confirm that it is available to your Gemini API account; model availability and identifiers can change.
