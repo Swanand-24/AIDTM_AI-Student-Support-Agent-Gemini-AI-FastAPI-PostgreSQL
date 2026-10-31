@@ -570,7 +570,7 @@ Two separate demonstration videos are provided to explain the project features a
 ### Video Links
 
 - **Demonstration Video 1:** [https://drive.google.com/file/d/1c6dafkdk37X1da5decbKSwrRLM0E-NUK/view?usp=sharing]
-- **Demonstration Video 2:** [[Insert Video Link 2](https://drive.google.com/file/d/1hY6k_FaP6aEOe4fYWn22onVL3lxrv9Ml/view?usp=sharing)]
+- **Demonstration Video 2:** [(https://drive.google.com/file/d/1hY6k_FaP6aEOe4fYWn22onVL3lxrv9Ml/view?usp=sharing)]
 
 These videos provide a practical walkthrough of the implemented features and demonstrate how the system supports both general university information and personalized student services.
 
